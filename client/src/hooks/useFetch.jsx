@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const key = ""
+const key = "BRM3yxRXbNpxDtFa2XZnuHYadVgkDpHF"
 
 const useFetch = ({ keyword }) => {
   const [gifUrl, setGifUrl] = useState("");
